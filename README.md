@@ -1,7 +1,7 @@
 # ML_course_student_branch
 An informal course on Machine and Deep Learning done at University of Venice
 
-Created by:
+The course was lead by Ismail Elezi and created by:
 
 Ismail Elezi - 4 lectures (lectures II, IV, VI and VIII )
 
