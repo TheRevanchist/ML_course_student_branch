@@ -3,8 +3,8 @@ An informal course on Machine and Deep Learning done at University of Venice
 
 Created by:
 
-Ismail Elezi - 4 lectures (1 on logistic/softmax regression, 1 on ANN, 1 on CNN, 1 on tuning CNNs)
+Ismail Elezi - 4 lectures (lectures II, IV, VI and VIII )
 
-Alessandro Torcinovich - 3 lectures (1 on linear regression, 1 lab on ANN, 1 lab on CNN)
+Alessandro Torcinovich - 3 lectures (lectures I, V and VII)
 
-Marco Fiorucci - 1 lecture on theory of ML
+Marco Fiorucci - 1 lecture (lecture III)
